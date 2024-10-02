@@ -1,7 +1,7 @@
 url: https://external.333f.com/333f-2021-api/public/api/banner/getBannerList
-status: down
-code: 500
-responseTime: 1455
-lastUpdated: 2024-10-01T23:18:11.734Z
+status: up
+code: 200
+responseTime: 1064
+lastUpdated: 2024-10-02T08:30:45.184Z
 startTime: 2024-03-22T09:35:38.382Z
 generator: Upptime <https://github.com/upptime/upptime>
