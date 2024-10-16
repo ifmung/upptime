@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 87,
-    "timeWeek": 97,
-    "timeMonth": 100,
+    "timeDay": 172,
+    "timeWeek": 109,
+    "timeMonth": 103,
     "timeYear": 113,
     "dailyMinutesDown": {
       "2024-05-01": 45
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/external.333f.com.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1044,
-    "timeDay": 1056,
-    "timeWeek": 1052,
-    "timeMonth": 1055,
-    "timeYear": 1044,
+    "uptimeYear": "99.99%",
+    "time": 1045,
+    "timeDay": 1110,
+    "timeWeek": 1082,
+    "timeMonth": 1052,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2024-05-01": 45
     }
