@@ -42,17 +42,17 @@
     "url": "https://external.333f.com/333f-2021-api/public/api/banner/getBannerList",
     "icon": "https://icons.duckduckgo.com/ip3/external.333f.com.ico",
     "slug": "",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1046,
-    "timeDay": 1460,
-    "timeWeek": 1113,
-    "timeMonth": 1084,
-    "timeYear": 1046,
+    "time": 1045,
+    "timeDay": 1297,
+    "timeWeek": 1097,
+    "timeMonth": 1081,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2024-05-01": 45
     }
